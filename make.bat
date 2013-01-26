@@ -1,2 +1,2 @@
-../../bin/lcc -o main.gb main.c
+..\..\bin\lcc -o main.gb main.c
 pause
